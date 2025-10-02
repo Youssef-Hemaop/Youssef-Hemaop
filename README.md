@@ -20,10 +20,6 @@
 <p style="color:#FFD700;">
 Hi 👋, I’m <b style="color:#0A66C2;">Youssef Soliman</b>, a data scientist aspiring to become a machine learning engineer.  
 With infinite curiosity for tech and a growing passion for AI, I’m building strong foundations in data analysis, modeling, and intelligent systems.  
-
-🚀 My journey is just beginning, but I’m committed to continuous learning and hands-on projects that push me closer to developing innovative and practical AI solutions.  
-
-🌍 Through data-driven insights and automation, I aim to make technology more adaptive, impactful, and accessible.  
 </p> 
 
 
