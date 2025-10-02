@@ -49,3 +49,11 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop" />
 </div>
+
+---
+
+### 📊 GitHub Activity  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
+</div>
