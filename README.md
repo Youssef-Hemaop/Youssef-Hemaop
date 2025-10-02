@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop" />
+</div>
+
 <h1 align="center" style="color:#0A66C2;">Youssef Soliman</h1>
 <h2 align="center" style="color:#25D366;">Data Scientist</h2>
 
@@ -46,14 +50,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop" />
-</div>
-
----
-
 ### 📊 GitHub Activity  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
 </div>
+
