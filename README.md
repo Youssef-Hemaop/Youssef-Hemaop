@@ -76,5 +76,8 @@
 ### 📊 GitHub Activity  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph" style="border-radius:10px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  <iframe src="https://youssef-hemaop.github.io/activity.html" 
+          width="100%" height="400" 
+          style="border-radius:10px; border:none; overflow:hidden;">
+  </iframe>
 </div>
