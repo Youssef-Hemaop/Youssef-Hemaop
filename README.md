@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="color:#0A66C2;">Youssef Soliman</h1>
-<h2 align="center" style="color:#25D366;">Data Scientist</h2>
+<h1 align="center" style="color:#25D366;">Data Scientist</h1>
 
 <div align="center">
   <a href="https://wa.me/201068666929" target="_blank">
@@ -14,6 +14,9 @@
   </a>
   <a href="https://www.linkedin.com/in/youssef-soliman-aa13a532a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~015ccb9b3f363c4c29" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
   <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
@@ -44,8 +47,8 @@
 
 ### 🎓 Certificates  
 
-- 🏅 **Associate SQL Developer – DataCamp** 
-- 🏅 **Associate Python Developer – DataCamp** 
+- 🏅 **Associate SQL Developer – DataCamp**  
+- 🏅 **Associate Python Developer – DataCamp**  
 
 ---
 
@@ -56,7 +59,7 @@
 - **Databases:** SQL (SQL Server, PostgreSQL)  
 - **Tools & Platforms:** Jupyter Notebook, VS Code  
 - **Data Analysis:** Data Exploration, Preprocessing, Feature Engineering  
-- **Soft Skills:** Problem Solving, Communication, Microsoft PowerPoint, Microsoft Word 
+- **Soft Skills:** Problem Solving, Communication, Microsoft PowerPoint, Microsoft Word  
 
 ---
 
