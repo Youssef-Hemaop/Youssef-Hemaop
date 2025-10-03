@@ -1,9 +1,9 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop&style=for-the-badge&logo=github&logoColor=white&color=blueviolet&left_text=Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop" />
 </div>
 
 <h1 align="center" style="color:#0A66C2;">Youssef Soliman</h1>
-<h1 align="center" style="color:#25D366;">Data Scientist</h1>
+<h2 align="center" style="color:#25D366;">Data Scientist</h2>
 
 <div align="center">
   <a href="https://wa.me/201068666929" target="_blank">
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.linkedin.com/in/youssef-soliman-aa13a532a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~015ccb9b3f363c4c29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
   <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
@@ -47,8 +44,8 @@
 
 ### 🎓 Certificates  
 
-- 🏅 **Associate SQL Developer – DataCamp**  
-- 🏅 **Associate Python Developer – DataCamp**  
+- 🏅 **Associate SQL Developer – DataCamp** *(Oct 2023 – Nov 2027)*  
+- 🏅 **Associate Python Developer – DataCamp** *(Jan 2009 – Oct 2023)*  
 
 ---
 
@@ -59,21 +56,11 @@
 - **Databases:** SQL (SQL Server, PostgreSQL)  
 - **Tools & Platforms:** Jupyter Notebook, VS Code  
 - **Data Analysis:** Data Exploration, Preprocessing, Feature Engineering  
-- **Soft Skills:** Problem Solving, Communication, Microsoft PowerPoint, Microsoft Word  
+- **Soft Skills:** Problem Solving, Communication, Presentation (PowerPoint, Word)  
 
 ---
 
-### 🚀 Let’s Connect  
-
-<p align="center" style="font-size: 18px; color: #FFD700;">
-  💡 I’m always open to collaborations, freelance opportunities, and exciting data-driven projects.  
-  <br>
-  📩 Feel free to reach out via LinkedIn, WhatsApp, or Email!  
-</p>  
-
----
-
-### 📊 GitHub Activity  
+### 📊 GitHub Activity 
 
 <div align="center">
   <iframe src="https://youssef-hemaop.github.io/activity.html" 
