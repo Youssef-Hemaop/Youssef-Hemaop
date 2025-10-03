@@ -5,33 +5,14 @@
 <h1 align="center" style="color:#0A66C2;">Youssef Mohamed Soliman</h1>
 <h1 align="center" style="color:#25D366;">Data Scientist</h1>
 
-<div align="center">
-  <a href="https://wa.me/201068666929" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-  <a href="mailto:Youssefsoliman3344@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-soliman-aa13a532a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~015ccb9b3f363c4c29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
-  </a>
-  <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
-  </a>
-  <a href="https://youssef-soliman-portfolio.lovable.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExLjk5IDEyYzIuMiAwIDQtMS44IDQtNCAwLTIuMi0xLjgtNC00LTRzLTQgMS44LTQgNCAxLjggNCA0IDR6bTAgMmMtMi42IDAtOCAxLjMtOCA0djRoMTZ2LTRjMC0yLjctNS40LTRuLTgtNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" height="25" alt="portfolio button" />
-</a>
-</div>
-
 ---
 
 ### ✨ About Me  
 
 <p style="color:#FFD700;">
-  Hi 👋, I’m Youssef Soliman, a data scientist aspiring to become a machine learning engineer. With infinite curiosity for tech and a growing passion for AI, I’m building strong foundations in Python programming,   SQL, data analysis, data visualization, and preprocessing.  
+  Hi 👋, I’m Youssef Soliman, a data scientist aspiring to become a machine learning engineer.  
+  With infinite curiosity for tech and a growing passion for AI, I’m building strong foundations in  
+  Python programming, SQL, data analysis, data visualization, and preprocessing.  
   <br><br>
 </p> 
 
@@ -72,6 +53,27 @@
   <br>
   📩 Feel free to reach out via LinkedIn, WhatsApp, or Email!  
 </p>  
+
+<div align="center">
+  <a href="https://wa.me/201068666929" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:Youssefsoliman3344@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-soliman-aa13a532a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~015ccb9b3f363c4c29" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
+  </a>
+  <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
+  </a>
+  <a href="https://youssef-soliman-portfolio.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExLjk5IDEyYzIuMiAwIDQtMS44IDQtNCAwLTIuMi0xLjgtNC00LTRzLTQgMS44LTQgNCAxLjggNCA0IDR6bTAgMmMtMi42IDAtOCAxLjMtOCA0djRoMTZ2LTRjMC0yLjctNS40LTRuLTgtNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" height="25" alt="portfolio button" />
+  </a>
+</div>
 
 ---
 
