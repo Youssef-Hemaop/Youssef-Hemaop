@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop&style=for-the-badge&logo=github&logoColor=white&color=blueviolet&left_text=Visitors" />
 </div>
 
-<h1 align="center" style="color:#0A66C2;">Youssef Soliman</h1>
+<h1 align="center" style="color:#0A66C2;">Youssef Mohamed Soliman</h1>
 <h1 align="center" style="color:#25D366;">Data Scientist</h1>
 
 <div align="center">
