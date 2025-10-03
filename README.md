@@ -56,7 +56,7 @@
 - **Databases:** SQL (SQL Server, PostgreSQL)  
 - **Tools & Platforms:** Jupyter Notebook, VS Code  
 - **Data Analysis:** Data Exploration, Preprocessing, Feature Engineering  
-- **Soft Skills:** Problem Solving, Communication, Presentation (PowerPoint, Word)  
+- **Soft Skills:** Problem Solving, Communication, Microsoft PowerPoint, Microsoft Word 
 
 ---
 
