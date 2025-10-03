@@ -21,6 +21,9 @@
   <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
   </a>
+  <a href="https://youssef-soliman-portfolio.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=FFD700&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ---
