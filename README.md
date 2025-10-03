@@ -44,8 +44,8 @@
 
 ### 🎓 Certificates  
 
-- 🏅 **Associate SQL Developer – DataCamp** *(Oct 2023 – Nov 2027)*  
-- 🏅 **Associate Python Developer – DataCamp** *(Jan 2009 – Oct 2023)*  
+- 🏅 **Associate SQL Developer – DataCamp** 
+- 🏅 **Associate Python Developer – DataCamp** 
 
 ---
 
