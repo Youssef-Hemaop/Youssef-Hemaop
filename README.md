@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
   </a>
   <a href="https://youssef-soliman-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio button" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExLjk5IDEyYzIuMiAwIDQtMS44IDQtNCAwLTIuMi0xLjgtNC00LTRzLTQgMS44LTQgNCAxLjggNCA0IDR6bTAgMmMtMi42IDAtOCAxLjMtOCA0djRoMTZ2LTRjMC0yLjctNS40LTRuLTgtNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" height="25" alt="portfolio button" />
+</a>
 </div>
 
 ---
