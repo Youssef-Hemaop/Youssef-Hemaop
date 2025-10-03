@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Hemaop.Youssef-Hemaop" />
+  <img src="https://img.shields.io/badge/Visitors-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <h1 align="center" style="color:#0A66C2;">Youssef Soliman</h1>
