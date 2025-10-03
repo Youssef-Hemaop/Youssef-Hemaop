@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/youssef-soliman-aa13a532a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="./Youssef%20Soliman%20%20CV.pdf.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv button" />
+  </a>
 </div>
 
 ---
@@ -39,6 +42,13 @@
 
 ---
 
+### 🎓 Certificates  
+
+- 🏅 **Associate SQL Developer – DataCamp** *(Oct 2023 – Nov 2027)*  
+- 🏅 **Associate Python Developer – DataCamp** *(Jan 2009 – Oct 2023)*  
+
+---
+
 ### 🛠 Skills  
 
 - **Programming:** <span style="color:#0A66C2;">Python</span>, <span style="color:#25D366;">C</span>  
@@ -55,4 +65,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
 </div>
-
