@@ -76,10 +76,10 @@
 ### 📊 GitHub Activity  
 
 <div align="center">
-  <iframe src="https://yourusername.github.io/activity-graph/"
-          width="100%"
-          height="400"
-          style="border:none; border-radius:10px;"
-          loading="lazy">
-  </iframe>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true"
+       width="100%"
+       alt="GitHub activity graph"
+       style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.5)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 </div>
