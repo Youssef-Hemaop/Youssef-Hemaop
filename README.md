@@ -63,8 +63,18 @@
 
 ---
 
+### 🚀 Let’s Connect  
+
+<p align="center" style="font-size: 18px; color: #FFD700;">
+  💡 I’m always open to collaborations, freelance opportunities, and exciting data-driven projects.  
+  <br>
+  📩 Feel free to reach out via LinkedIn, WhatsApp, or Email!  
+</p>  
+
+---
+
 ### 📊 GitHub Activity  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Hemaop&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph" style="border-radius:10px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
