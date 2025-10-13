@@ -12,7 +12,7 @@
 <p style="color:#FFD700;">
   Hi 👋, I’m Youssef Soliman, a data scientist aspiring to become a machine learning engineer.  
   With infinite curiosity for tech and a growing passion for AI, I’m building strong foundations in  
-  Python programming, SQL, data analysis, data visualization, and preprocessing  
+  Python programming, SQL, data analysis, data visualization, and preprocessing. 
   <br><br>
 </p> 
 
