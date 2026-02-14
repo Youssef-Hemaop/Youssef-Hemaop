@@ -79,29 +79,24 @@
 
 ### 📊 GitHub Activity  
 
-<div align="center" style="
-  background:#0d1117;
-  padding:20px;
-  border-radius:10px;
-  border:1px solid #30363d;
-  width:300px;
-  margin:auto;
-">
-
-  <div style="color:white; font-family:Segoe UI, sans-serif; text-align:center;">
-
-    <div style="font-size:32px; font-weight:700;">
-      16
-    </div>
-
-    <div style="font-size:16px; opacity:0.85; margin-top:4px;">
-      Longest Streak
-    </div>
-
-    <div style="font-size:13px; opacity:0.5; margin-top:4px;">
-      Jan 21 – Feb 5
-    </div>
-
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <th align="center">Total Contributions</th>
+    <th align="center">Current Streak</th>
+    <th align="center">Longest Streak</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>729</h3>
+      <sub>Jul 14, 2021 – Present</sub>
+    </td>
+    <td align="center">
+      <h3>0</h3>
+      <sub>Feb 14</sub>
+    </td>
+    <td align="center">
+      <h3>16</h3>
+      <sub>Jan 21 – Feb 5</sub>
+    </td>
+  </tr>
+</table>
