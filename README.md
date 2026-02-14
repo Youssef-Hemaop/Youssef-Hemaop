@@ -79,33 +79,27 @@
 
 ### 📊 GitHub Activity  
 
-<div align="center" style="background:#0d1117; padding:20px; border-radius:10px; border:1px solid #30363d; width:90%; margin:auto;">
-  
-  <div style="display:flex; justify-content:space-around; align-items:center; color:white; font-family:Segoe UI, sans-serif;">
+<div align="center" style="
+  background:#0d1117;
+  padding:20px;
+  border-radius:10px;
+  border:1px solid #30363d;
+  width:300px;
+  margin:auto;
+">
 
-    <!-- Total Contributions -->
-    <div style="text-align:center;">
-      <div style="font-size:32px; font-weight:700;">729</div>
-      <div style="font-size:16px; opacity:0.8;">Total Contributions</div>
-      <div style="font-size:13px; opacity:0.5;">Jul 14, 2021 - Present</div>
+  <div style="color:white; font-family:Segoe UI, sans-serif; text-align:center;">
+
+    <div style="font-size:32px; font-weight:700;">
+      16
     </div>
 
-    <div style="width:1px; height:80px; background:#30363d;"></div>
-
-    <!-- Current Streak -->
-    <div style="text-align:center;">
-      <div style="font-size:40px; font-weight:700; color:#f0883e;">0</div>
-      <div style="font-size:16px; opacity:0.8;">Current Streak</div>
-      <div style="font-size:13px; opacity:0.5;">Feb 14</div>
+    <div style="font-size:16px; opacity:0.85; margin-top:4px;">
+      Longest Streak
     </div>
 
-    <div style="width:1px; height:80px; background:#30363d;"></div>
-
-    <!-- Longest Streak -->
-    <div style="text-align:center;">
-      <div style="font-size:32px; font-weight:700;">16</div>
-      <div style="font-size:16px; opacity:0.8;">Longest Streak</div>
-      <div style="font-size:13px; opacity:0.5;">Jan 21 - Feb 5</div>
+    <div style="font-size:13px; opacity:0.5; margin-top:4px;">
+      Jan 21 – Feb 5
     </div>
 
   </div>
