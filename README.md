@@ -30,7 +30,7 @@
 
 ### 🎓 Certificates  
 
-- 🏅 **Associate SQL Developer – DataCamp**  
+- 🏅 **SQL Fundamentals – DataCamp**  
 - 🏅 **Associate Python Developer – DataCamp**  
 
 ---
