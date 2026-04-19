@@ -37,7 +37,7 @@
 
 ### 🛠 Skills  
 
-- **Programming:** <span style="color:#0A66C2;">Python</span>, <span style="color:#25D366;">C</span>  
+- **Programming:** <span style="color:#0A66C2;">Python</span> 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium  
 - **Databases:** SQL (SQL Server, PostgreSQL)  
 - **Tools & Platforms:** Jupyter Notebook, VS Code  
