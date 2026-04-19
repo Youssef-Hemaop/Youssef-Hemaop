@@ -21,7 +21,7 @@
 ### 📌 Experience  
 
 **<span style="color:#25D366;">Digital Egypt Pioneers Initiative (DEPI) Internship</span>** — *Jun 2025 – Dec 2025*  
-- Hands-on experience in **Python** programming and **SQL (SQL Server)**.  
+- Hands-on experience in **Python** programming and **SQL**.  
 - Data analysis using <span style="color:#FFD700;">Pandas</span> and <span style="color:#FFD700;">NumPy</span>.  
 - Data visualization with <span style="color:#FF69B4;">Matplotlib</span> and <span style="color:#FF69B4;">Seaborn</span>.  
 - Built projects applying **data cleaning, preprocessing, and feature engineering**.  
